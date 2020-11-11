@@ -33,7 +33,7 @@
        }
 
     ?>
-
+    <a href="list.php" class="btn btn-success">Search</a>
     <table class="table table-borderd">
        <tr>
           <th>Name</th>
